@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm Sarah Sameh!
+## Hi 👋, I'm Sarah Sameh!
 
 ✨ Welcome to my GitHub profile! ✨
 
@@ -25,4 +25,3 @@ Feel free to reach out if you want to discuss technology, collaboration, or just
 Thanks for stopping by, and happy coding! 😊
 
 
-You can customize the placeholders with your information and add more details or sections as needed. This template should give a comprehensive overview of your skills, projects, and how to contact you.
